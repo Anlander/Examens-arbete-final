@@ -19,7 +19,9 @@ const Hero = () => {
            </div>
            <div className="column is-5 is-offset-1">
              <figure className="image is-4by3">
-               <h1> Picture </h1>
+             <a href="http://www.prosperityadvisers.com.au/help.jpg">
+              <img src="http://www.prosperityadvisers.com.au/help.jpg" />
+              </a>
              </figure>
            </div>
          </div>
